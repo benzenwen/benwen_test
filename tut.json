@@ -1,8 +1,8 @@
 {
 	"name": "benwen_test",
 	"title": "Benwen Test",
-	"description": "A brief description of what will be covered in the tutorial",
-	"version": "0.0.0",
+	"description": "A brief test of tut",
+	"version": "0.0.1",
 	"github_path": "benzenwen/benwen_test",
 	"difficulty": 1,
 	"topics": [
@@ -20,12 +20,8 @@
     "answer": "15 minutes"
   },
   {
-    "question": "an advanced tutorial should have a difficulty of 1",
-    "answer": false
-  },
-  {
-    "question": "this command line tool can be used to create tutorials",
-    "answer": "tut"
+    "question": "what is the airspeed velocity of an unladen swallow",
+    "answer": "African or European"
   }
 ]
 }
